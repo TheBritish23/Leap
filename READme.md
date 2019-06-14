@@ -25,7 +25,7 @@ _Randomemail.com_
 
 ## Technologies Used
 
-_I had to use 3 criterias for BDD: Has to be evenly dividable by 4, cannot be evenly dividable by 100, has to evenly dividable by 400.  _
+_I had to use 3 criterias for BDD: Has to be evenly dividable by 4, cannot be evenly dividable by 100, has to evenly dividable by 400. Using IF statements to calculate the year and to check if result is correct. _
 
 ### License
 
